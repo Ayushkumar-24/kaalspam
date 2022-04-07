@@ -4,7 +4,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
     
-HELP_PIC = "Uploaded to https://telegra.ph/file/20dda006e65de620ee475.jpg in 1 seconds."
+HELP_PIC = "https://telegra.ph/file/20dda006e65de620ee475.jpg in 1 seconds."
 
 Riz_Help = "🔥 𝗞𝗔𝗔𝗟 𝗦𝗣𝗔𝗠 🔥\n\n"
  
