@@ -16,14 +16,12 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/Spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KAALR1DER/KAALSPAM)
 
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+* [Channel](https://t.me/heaven_army)
+* [Support Group](https://t.me/KAAL_NETWORK)
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Ustad-op](https://github.com/Ustad-Op)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [KAAL](https://github.com/KAALR1DER)
