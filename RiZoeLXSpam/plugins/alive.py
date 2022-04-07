@@ -5,7 +5,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "Uploaded to https://telegra.ph/file/20dda006e65de620ee475.jpg in 1 seconds."
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/20dda006e65de620ee475.jpg in 1 seconds."
   
 
           
